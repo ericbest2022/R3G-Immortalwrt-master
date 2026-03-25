@@ -4,6 +4,13 @@
 ## 20260321：使用正常
 
 
+## Version 
+
+REPO_URL: https://github.com/immortalwrt/immortalwrt.git
+
+REPO_BRANCH: openwrt-25.12
+
+
 # 默认设置
 默认IP：192.168.10.1
 
