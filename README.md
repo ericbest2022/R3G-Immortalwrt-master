@@ -3,8 +3,12 @@
 # 开发版本
 ## 20260321：使用正常
 
+# 编译环境
 
-## Version 
+    借用【OldCoding/MI-R3G-immortalwrt-build】
+    https://github.com/OldCoding/MI-R3G-immortalwrt-build
+
+# Version 
 
 	REPO_URL: https://github.com/immortalwrt/immortalwrt.git
 	REPO_BRANCH: openwrt-master
