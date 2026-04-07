@@ -6,21 +6,17 @@
 
 ## Version 
 
-REPO_URL: https://github.com/immortalwrt/immortalwrt.git
-
-REPO_BRANCH: openwrt-master
+	REPO_URL: https://github.com/immortalwrt/immortalwrt.git
+	REPO_BRANCH: openwrt-master
 
 
 # 默认设置
-默认IP：192.168.10.1
 
-用户名：root
-
-密码：password
-
-WiFi名称：ImmortalWrt
-
-WiFi密码：123456789
+	默认IP：192.168.10.1
+	用户名：root
+	密码：password
+	WiFi名称：ImmortalWrt
+	WiFi密码：123456789
 
 
 
