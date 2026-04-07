@@ -5,7 +5,7 @@
 
 # 编译环境
 
-    借用【OldCoding/MI-R3G-immortalwrt-build】
+    导入【OldCoding/MI-R3G-immortalwrt-build】
     https://github.com/OldCoding/MI-R3G-immortalwrt-build
 
 # Version 
